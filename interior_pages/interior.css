@@ -42,6 +42,9 @@ header{
   align-items: center;
 }
 /*body*/
+span{
+  color: red;
+}
 body{
   display: flex;
   flex-direction: column;
@@ -190,7 +193,7 @@ input{
   position: absolute;
   right: 446px;
   top: 976px;
-  margin-top: 20px;
+  margin-top: 25px;
   z-index: 1;
 }
   
